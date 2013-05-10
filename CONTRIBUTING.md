@@ -14,7 +14,7 @@
     up-to-date:
 
     ```sh
-    % git remote add muhafiz https://github.com/sonsuzdongu/muhafiz.git
+    % git remote add muhafiz git://github.com/sonsuzdongu/muhafiz.git
     % git fetch muhafiz
     ```
 
